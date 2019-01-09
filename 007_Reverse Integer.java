@@ -1,3 +1,6 @@
+// 두개의 솔루션 중 하나 선택
+// 둘다 Accept 잘됨 
+
 class Solution {
     public int reverse(int x) {
         boolean sign = x > 0;
